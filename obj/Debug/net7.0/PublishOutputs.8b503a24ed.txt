@@ -1,0 +1,12 @@
+/home/andymill/ws/repos/dotnet-hello/HelloWorldAPI/bin/Debug/net7.0/publish/HelloWorldAPI
+/home/andymill/ws/repos/dotnet-hello/HelloWorldAPI/bin/Debug/net7.0/publish/appsettings.Development.json
+/home/andymill/ws/repos/dotnet-hello/HelloWorldAPI/bin/Debug/net7.0/publish/appsettings.json
+/home/andymill/ws/repos/dotnet-hello/HelloWorldAPI/bin/Debug/net7.0/publish/HelloWorldAPI.dll
+/home/andymill/ws/repos/dotnet-hello/HelloWorldAPI/bin/Debug/net7.0/publish/HelloWorldAPI.deps.json
+/home/andymill/ws/repos/dotnet-hello/HelloWorldAPI/bin/Debug/net7.0/publish/HelloWorldAPI.runtimeconfig.json
+/home/andymill/ws/repos/dotnet-hello/HelloWorldAPI/bin/Debug/net7.0/publish/HelloWorldAPI.pdb
+/home/andymill/ws/repos/dotnet-hello/HelloWorldAPI/bin/Debug/net7.0/publish/Microsoft.AspNetCore.OpenApi.dll
+/home/andymill/ws/repos/dotnet-hello/HelloWorldAPI/bin/Debug/net7.0/publish/Microsoft.OpenApi.dll
+/home/andymill/ws/repos/dotnet-hello/HelloWorldAPI/bin/Debug/net7.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/home/andymill/ws/repos/dotnet-hello/HelloWorldAPI/bin/Debug/net7.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/andymill/ws/repos/dotnet-hello/HelloWorldAPI/bin/Debug/net7.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
